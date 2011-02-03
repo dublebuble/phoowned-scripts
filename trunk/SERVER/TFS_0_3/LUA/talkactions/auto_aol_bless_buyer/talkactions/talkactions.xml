@@ -1,0 +1,2 @@
+<talkaction words="!aol; /aol; !AOL; /AOL" event="script" value="aol.lua"/>
+<talkaction words="!bless; /bless; !Bless; /Bless; !BLESS; /BLESS" event="script" value="bless.lua"/>

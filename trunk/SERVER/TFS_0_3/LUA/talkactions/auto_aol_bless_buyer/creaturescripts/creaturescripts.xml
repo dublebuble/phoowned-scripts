@@ -1,0 +1,1 @@
+<event type="login" name="AutoBuyerAfterDeath" event="script" value="autobuyer.lua"/>

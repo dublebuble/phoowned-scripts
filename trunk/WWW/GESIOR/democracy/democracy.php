@@ -1,4 +1,12 @@
 <?PHP
+#################################################
+### Scripted by PhoOwned                      ###
+### Contact: phoowned@wp.pl                   ###
+###                                           ###
+### Democracy - tutors and ST can vote and    ###
+### post their ideas                          ###
+### version: 0.2 (beta)                       ###
+#################################################
 /*
 In MySQL:
 CREATE TABLE `p_democracy` (

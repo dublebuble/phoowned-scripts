@@ -1,0 +1,5 @@
+*** Democracy ***
+
+*** version 0.2
+- democracy class (in pot)
+- show list of votings and ideas
