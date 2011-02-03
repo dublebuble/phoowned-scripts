@@ -1,0 +1,6 @@
+*** Auto AOL and / or Bless buyer after death ***
+
+*** version 1.0
+- player can turn on/off auto buying AOL and/or bless after death
+- script add AOL / bless when player login near his temple position without AOL/bless
+- script show FIY when player doesn't have enought money
